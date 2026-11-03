@@ -1,7 +1,5 @@
-// WhatsApp: código do país + DDD + número, somente dígitos.
-// E-mail: preencha o endereço para ativar os links de contato.
-const WHATSAPP_NUMBER = ''; // Ex.: 5573999999999
-const CONTACT_EMAIL = ''; // Ex.: voce@dominio.com
+const WHATSAPP_NUMBER = ''; 
+const CONTACT_EMAIL = 'kennedy.of@proton.me';
 const STAGE_TRANSITION_DURATION_MS = 340;
 const TOAST_DURATION_MS = 4600;
 const SPOTLIGHT_START_POSITION = { x: 77, y: 42 };
