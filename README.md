@@ -10,7 +10,7 @@ Um espaço para apresentar meus projetos, minhas tecnologias e a forma como dese
 
 </div>
 
-![Prévia da página inicial do Kenny Tech](assets/preview.png)
+![Prévia da página inicial do Kenny Tech](preview.png)
 
 ## Sobre o projeto
 
@@ -56,31 +56,7 @@ React, TypeScript, JavaScript, Expo / React Native, HTML/CSS, Laravel, Node.js, 
 
 Os conceitos demonstrativos não são apresentados como trabalhos contratados por clientes.
 
-## Executar localmente
 
-1. Clone ou baixe o repositório.
-2. Abra o arquivo `index.html` em um navegador.
-
-Se preferir usar um servidor local, na pasta do projeto execute:
-
-```bash
-python3 -m http.server 8000
-```
-
-Depois acesse **http://localhost:8000**.
-
-## Configurar contato
-
-No fim do arquivo `index.html`, localize:
-
-```javascript
-const WHATSAPP_NUMBER = '';
-const CONTACT_EMAIL = '';
-```
-
-Preencha os campos com seu número no formato **55 + DDD + número** e seu endereço de e-mail. Os botões de contato usam esses valores; sem configurá-los, exibem um aviso em vez de iniciar o contato.
-
-## Estrutura
 
 ```text
 kenny-tech/
@@ -100,10 +76,4 @@ Desenvolvido por **Kenny**.
 
 **GitHub:** [@kennedyyp](https://github.com/kennedyyp)
 
----
 
-<div align="center">
-
-<sub>Feito com código, atenção aos detalhes e vontade de melhorar a cada versão.</sub>
-
-</div>
